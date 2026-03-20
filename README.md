@@ -2,3 +2,4 @@
 # Team Member
 - Kyuwon Hwang
 - Yoonhyeok Oh
+- Ethan Palisoc
